@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.2.3:1", "", "Pemodelan Proses Bisnis dengan BPMN", "EARoot/EA2/EA3/EA53.html", "189.png", "110", "0", "", "Analysis diagram0","{48605D62-1EDB-4070-A6CC-04D7A3575A02}");
+tocTab[tocTab.length] = new Array("0.2.3.1", "1", "1.1. Perencanaan Audit", "EARoot/EA2/EA3/EA1/EA74.html", "4.png", "", "", "{9BCE4ABD-DEE7-48bc-B53C-DCB9864A9116}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3.2", "1", "1.2. Pelaksanaan Audit", "EARoot/EA2/EA3/EA2/EA119.html", "4.png", "", "", "{213D43B8-8273-4af8-85AA-B9E6B1F6BF25}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3.3", "1", "1.3. Monitoring Audit", "EARoot/EA2/EA3/EA3/EA170.html", "4.png", "", "", "{9EA59D16-2D3E-4b91-81F9-604F5855383F}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3.4", "1", "2.1. Manajemen Master Data", "EARoot/EA2/EA3/EA4/EA182.html", "4.png", "", "", "{CAEB165C-0EBB-479b-A885-E03564E3B8FE}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3.5", "1", "2.2. Manajemen Workflow, dan Approval", "EARoot/EA2/EA3/EA5/EA203.html", "4.png", "", "", "{A0A26840-34CD-4608-A13E-13D68DDB55DE}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3.6", "1", "2.3. Manajemen Notifikasi", "EARoot/EA2/EA3/EA6/EA206.html", "4.png", "", "", "{BAD17ED6-052F-464d-8710-4DD942799477}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3.7", "1", "2.4. Manajemen Authentikasi", "EARoot/EA2/EA3/EA7/EA209.html", "4.png", "", "", "{D84DD053-FF0D-4747-85A5-6CEACFE0FF20}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3.8", "1", "2.5. Manajemen Authorisasi", "EARoot/EA2/EA3/EA8/EA212.html", "4.png", "", "", "{4C6F84AF-46E5-4aab-861C-7C540182AC65}", "Package");

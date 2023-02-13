@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.2.2:1", "", "Identifikasi Proses Bisnis dengan Use Case Diagram", "EARoot/EA2/EA2/EA36.html", "180.png", "94", "0", "", "Use Case diagram0","{61214BB5-173E-444f-BDEB-F320789DABF1}");
+tocTab[tocTab.length] = new Array("0.2.2:2", "", "Admin", "EARoot/EA2/EA2/EA39.html", "6.png", "E460", "0", "", "Actor0","{4E585820-D601-49f2-B81A-883049925495}");
+tocTab[tocTab.length] = new Array("0.2.2:3", "", "Melaksanakan Audit", "EARoot/EA2/EA2/EA41.html", "7.png", "E470", "0", "", "UseCase0","{D513DA22-4312-459a-8D2F-25B9DE999906}");
+tocTab[tocTab.length] = new Array("0.2.2:4", "", "Memonitoring Audit", "EARoot/EA2/EA2/EA42.html", "7.png", "E471", "0", "", "UseCase0","{77B51E05-87CA-45f4-8B70-F2E78D43CECA}");
+tocTab[tocTab.length] = new Array("0.2.2:5", "", "Mengatur Authentikasi", "EARoot/EA2/EA2/EA43.html", "7.png", "E465", "0", "", "UseCase0","{7047337B-F10E-4668-97DE-1D69330B236B}");
+tocTab[tocTab.length] = new Array("0.2.2:6", "", "Mengatur Authorisasi", "EARoot/EA2/EA2/EA44.html", "7.png", "E466", "0", "", "UseCase0","{F355A674-7700-45b4-A337-73A30FCEAD50}");
+tocTab[tocTab.length] = new Array("0.2.2:7", "", "Mengatur Master Data", "EARoot/EA2/EA2/EA45.html", "7.png", "E461", "0", "", "UseCase0","{2C546B64-94A9-4353-B20C-B4F5A5467A48}");
+tocTab[tocTab.length] = new Array("0.2.2:8", "", "Mengatur Notifikasi", "EARoot/EA2/EA2/EA46.html", "7.png", "E463", "0", "", "UseCase0","{119F9CD6-1460-4d01-B4B2-779017DA7735}");
+tocTab[tocTab.length] = new Array("0.2.2:9", "", "Mengatur Workflow dan Approval", "EARoot/EA2/EA2/EA47.html", "7.png", "E462", "0", "", "UseCase0","{CED5436D-C655-4f83-A11F-2F55AD1BDEF7}");
+tocTab[tocTab.length] = new Array("0.2.2:10", "", "Merencanakan Audit", "EARoot/EA2/EA2/EA48.html", "7.png", "E469", "0", "", "UseCase0","{381A603A-F5BF-4947-BFF6-AFF8C4A6D70F}");
+tocTab[tocTab.length] = new Array("0.2.2:11", "", "Superuser", "EARoot/EA2/EA2/EA51.html", "6.png", "E464", "0", "", "Actor0","{37189619-5313-4958-8724-B5DD8D554AA7}");
+tocTab[tocTab.length] = new Array("0.2.2:12", "", "User", "EARoot/EA2/EA2/EA52.html", "6.png", "E467", "0", "", "Actor0","{2D691D22-70DB-468e-9384-E1F1199F3C91}");

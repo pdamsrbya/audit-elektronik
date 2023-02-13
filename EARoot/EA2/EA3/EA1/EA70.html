@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Penugasan</title>
+<link href="../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA71.png" usemap="#EA71" border="0" />
+
+<MAP NAME="EA71">
+<area shape="rect" coords="680,210,830,285" href="EA91.html" target="_self">
+<area shape="rect" coords="615,270,657,312" href="EA90.html" target="_self">
+<area shape="rect" coords="895,95,925,125" href="EA88.html" target="_self">
+<area shape="rect" coords="680,80,830,140" href="EA84.html" target="_self">
+<area shape="rect" coords="544,85,586,127" href="EA83.html" target="_self">
+<area shape="rect" coords="680,300,830,360" href="EA92.html" target="_self">
+<area shape="rect" coords="403,75,513,135" href="EA86.html" target="_self">
+<area shape="rect" coords="262,75,372,135" href="EA89.html" target="_self">
+<area shape="rect" coords="121,75,231,135" href="EA85.html" target="_self">
+<area shape="rect" coords="60,85,90,115" href="EA87.html" target="_self">
+<area shape="rect" coords="10,195,950,375" href="EA82.html" target="_self">
+<area shape="rect" coords="10,10,950,195" href="EA81.html" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Penugasan : Business Process diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">02/02/2023 10:00:29</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">07/02/2023 15:13:04</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Hujiko</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{D450203D-86B0-4ecb-99D9-E466DB476EB1}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.2.1", "1", "1.1. Identifikasi Kebutuhan Software", "EARoot/EA2/EA1/EA25.html", "4.png", "", "", "{8FFC3173-AF59-4d45-B57B-F02E5F8351A2}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2", "1", "1.2. Identifikasi Proses Bisnis dengan Use Case Diagram", "EARoot/EA2/EA2/EA38.html", "4.png", "", "", "{2B0C7EF1-BD90-4146-891A-C525B50353EC}", "Package");
+tocTab[tocTab.length] = new Array("0.2.3", "1", "1.3. Pemodelan Proses Bisnis dengan BPMN", "EARoot/EA2/EA3/EA55.html", "4.png", "", "", "{357459DB-20B7-47a1-A3B9-D58607CA5E3D}", "Package");
+tocTab[tocTab.length] = new Array("0.2.4", "1", "1.4. Realisasi Proses Bisnis dengan Sequence Diagram", "EARoot/EA2/EA4/EA215.html", "4.png", "", "", "{CB19F9F5-C612-4960-A00A-C3CE9F45A056}", "Package");
+tocTab[tocTab.length] = new Array("0.2.5", "1", "2.1. Pemodelan Class Diagram", "EARoot/EA2/EA5/EA218.html", "4.png", "", "", "{4E0A82E7-F0BF-4355-AD7F-29E06768522B}", "Package");
+tocTab[tocTab.length] = new Array("0.2.6", "1", "2.2. Pemodelan Desain User Interface", "EARoot/EA2/EA6/EA221.html", "4.png", "", "", "{A7785541-93C5-439a-A462-95AC9F73BC28}", "Package");
+tocTab[tocTab.length] = new Array("0.2.7", "1", "2.3. Pemodelan Data Model", "EARoot/EA2/EA7/EA224.html", "4.png", "", "", "{E971650E-164C-45e6-96FA-6C8C483AE608}", "Package");
+tocTab[tocTab.length] = new Array("0.2.8", "1", "2.4. Pemodelan Deployment Diagram", "EARoot/EA2/EA8/EA227.html", "4.png", "", "", "{B7556B5B-840F-4fce-8431-DFC0F1768BEC}", "Package");
