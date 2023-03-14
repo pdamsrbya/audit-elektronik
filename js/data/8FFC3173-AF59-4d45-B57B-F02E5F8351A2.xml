@@ -1,9 +1,9 @@
 tocTab[tocTab.length] = new Array("0.2.1:1", "", "Identifikasi Kebutuhan Software", "EARoot/EA2/EA1/EA23.html", "188.png", "22", "0", "", "Custom diagram0","{E5C69389-8D2B-4dca-9E39-752426CD75BA}");
-tocTab[tocTab.length] = new Array("0.2.1:2", "", "«Activity» Manajemen Authentikasi", "EARoot/EA2/EA1/EA26.html", "4C9380A5-0_Activity.png", "E329", "0", "", "Activity0","{7473663C-A353-402f-B435-F95D34ED91B3}");
-tocTab[tocTab.length] = new Array("0.2.1:3", "", "«Activity» Manajemen Authorisasi", "EARoot/EA2/EA1/EA27.html", "4C9380A5-0_Activity.png", "E330", "0", "", "Activity0","{02E769B4-0AE0-4fee-AF35-64A16DE87F1D}");
-tocTab[tocTab.length] = new Array("0.2.1:4", "", "«Activity» Manajemen Master Data", "EARoot/EA2/EA1/EA28.html", "4C9380A5-0_Activity.png", "E403", "0", "", "Activity0","{109EED15-445F-4e1b-A095-57FC483B25BC}");
-tocTab[tocTab.length] = new Array("0.2.1:5", "", "«Activity» Manajemen Notifikasi", "EARoot/EA2/EA1/EA29.html", "4C9380A5-0_Activity.png", "E332", "0", "", "Activity0","{6FED3178-E7B2-4d14-A925-701A190CDD36}");
-tocTab[tocTab.length] = new Array("0.2.1:6", "", "«Activity» Manajemen Workflow, dan Approval", "EARoot/EA2/EA1/EA30.html", "4C9380A5-0_Activity.png", "E337", "0", "", "Activity0","{008A27B0-8DF6-47ce-97B6-A647A1EEE217}");
-tocTab[tocTab.length] = new Array("0.2.1:7", "", "«Activity» Monitoring Audit", "EARoot/EA2/EA1/EA31.html", "4C9380A5-0_Activity.png", "E400", "0", "", "Activity0","{252B34FE-BD98-447a-B06D-CFE6312E8806}");
-tocTab[tocTab.length] = new Array("0.2.1:8", "", "«Activity» Pelaksanaan Audit", "EARoot/EA2/EA1/EA32.html", "4C9380A5-0_Activity.png", "E328", "0", "", "Activity0","{BEBB0919-94A9-4696-A09A-654E4C3BAE6B}");
-tocTab[tocTab.length] = new Array("0.2.1:9", "", "«Activity» Perencanaan Audit", "EARoot/EA2/EA1/EA33.html", "4C9380A5-0_Activity.png", "E327", "0", "", "Activity0","{2D90368A-7583-40f4-A578-BD7543EE6CA5}");
+tocTab[tocTab.length] = new Array("0.2.1:2", "", "Manajemen Authentikasi", "EARoot/EA2/EA1/EA26.html", "4C9380A5-0_Activity.png", "E329", "0", "", "Activity0","{7473663C-A353-402f-B435-F95D34ED91B3}");
+tocTab[tocTab.length] = new Array("0.2.1:3", "", "Manajemen Authorisasi", "EARoot/EA2/EA1/EA27.html", "4C9380A5-0_Activity.png", "E330", "0", "", "Activity0","{02E769B4-0AE0-4fee-AF35-64A16DE87F1D}");
+tocTab[tocTab.length] = new Array("0.2.1:4", "", "Manajemen Master Data", "EARoot/EA2/EA1/EA28.html", "4C9380A5-0_Activity.png", "E403", "0", "", "Activity0","{109EED15-445F-4e1b-A095-57FC483B25BC}");
+tocTab[tocTab.length] = new Array("0.2.1:5", "", "Manajemen Notifikasi", "EARoot/EA2/EA1/EA29.html", "4C9380A5-0_Activity.png", "E332", "0", "", "Activity0","{6FED3178-E7B2-4d14-A925-701A190CDD36}");
+tocTab[tocTab.length] = new Array("0.2.1:6", "", "Manajemen Workflow, dan Approval", "EARoot/EA2/EA1/EA30.html", "4C9380A5-0_Activity.png", "E337", "0", "", "Activity0","{008A27B0-8DF6-47ce-97B6-A647A1EEE217}");
+tocTab[tocTab.length] = new Array("0.2.1:7", "", "Monitoring Audit", "EARoot/EA2/EA1/EA31.html", "4C9380A5-0_Activity.png", "E400", "0", "", "Activity0","{252B34FE-BD98-447a-B06D-CFE6312E8806}");
+tocTab[tocTab.length] = new Array("0.2.1:8", "", "Pelaksanaan Audit", "EARoot/EA2/EA1/EA32.html", "4C9380A5-0_Activity.png", "E328", "0", "", "Activity0","{BEBB0919-94A9-4696-A09A-654E4C3BAE6B}");
+tocTab[tocTab.length] = new Array("0.2.1:9", "", "Perencanaan Audit", "EARoot/EA2/EA1/EA33.html", "4C9380A5-0_Activity.png", "E327", "0", "", "Activity0","{2D90368A-7583-40f4-A578-BD7543EE6CA5}");

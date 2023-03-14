@@ -1,1 +1,11 @@
-tocTab[tocTab.length] = new Array("0.2.3.5:1", "", "Manajemen Workflow, dan Approval", "EARoot/EA2/EA3/EA5/EA201.html", "189.png", "100", "0", "", "Analysis diagram0","{C3160275-7392-479f-8F52-F5FE17BA34A8}");
+tocTab[tocTab.length] = new Array("0.2.3.5:1", "", "Manajemen Workflow, dan Approval", "EARoot/EA2/EA3/EA5/EA275.html", "189.png", "100", "0", "", "Analysis diagram0","{C3160275-7392-479f-8F52-F5FE17BA34A8}");
+tocTab[tocTab.length] = new Array("0.2.3.5:2", "", "Pemberi Approval", "EARoot/EA2/EA3/EA5/EA278.html", "116.png", "E609", "0", "", "ActivityPartition0","{AAB41739-127B-485d-B453-6BBD74013796}");
+tocTab[tocTab.length] = new Array("0.2.3.5:3", "", "Pemohon", "EARoot/EA2/EA3/EA5/EA279.html", "116.png", "E607", "0", "", "ActivityPartition0","{C97CE30F-169F-4a6d-AE84-97C6E209AEA9}");
+tocTab[tocTab.length] = new Array("0.2.3.5:4", "", "Pemohon", "EARoot/EA2/EA3/EA5/EA280.html", "116.png", "E608", "0", "", "ActivityPartition0","{EE41E039-E6E1-4b76-AB56-8D14F33639D5}");
+tocTab[tocTab.length] = new Array("0.2.3.5:5", "", "Menerima Notif &quot;Permohonan Disteujui&quot;", "EARoot/EA2/EA3/EA5/EA281.html", "4C9380A5-0_Activity.png", "E615", "E608", "", "Activity0","{515F2B8A-9737-48ea-A51E-D4D009FE934B}");
+tocTab[tocTab.length] = new Array("0.2.3.5:6", "", "Mengirimkan Dokumen ", "EARoot/EA2/EA3/EA5/EA282.html", "4C9380A5-0_Activity.png", "E611", "E608", "", "Activity0","{268D91A6-3E35-46d5-B4A4-9AA86E5D9E0D}");
+tocTab[tocTab.length] = new Array("0.2.3.5:7", "", "Mulai", "EARoot/EA2/EA3/EA5/EA283.html", "4C9380A5-0_StartEvent.png", "E610", "E608", "", "Event0","{FF6F7C9D-3C6D-44e9-B4C2-0E81A6B4B34E}");
+tocTab[tocTab.length] = new Array("0.2.3.5:8", "", "Selesai", "EARoot/EA2/EA3/EA5/EA284.html", "4C9380A5-0_EndEvent.png", "E616", "E608", "", "Event0","{D7A56E0D-2E09-4f95-913D-CF18E67743B6}");
+tocTab[tocTab.length] = new Array("0.2.3.5:9", "", "Menyetujui1 ?", "EARoot/EA2/EA3/EA5/EA285.html", "56.png", "E612", "E609", "", "Decision0","{F91F8460-265E-4d40-A74A-C199F098933D}");
+tocTab[tocTab.length] = new Array("0.2.3.5:10", "", "Menyetujui1?", "EARoot/EA2/EA3/EA5/EA286.html", "56.png", "E613", "E609", "", "Decision0","{6B07F5E9-0E56-4071-A20F-7841515244E4}");
+tocTab[tocTab.length] = new Array("0.2.3.5:11", "", "Menyetujui2?", "EARoot/EA2/EA3/EA5/EA287.html", "56.png", "E614", "E609", "", "Decision0","{A56D743B-345B-427d-8498-80676B4F0222}");

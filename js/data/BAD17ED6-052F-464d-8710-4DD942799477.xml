@@ -1,1 +1,11 @@
-tocTab[tocTab.length] = new Array("0.2.3.6:1", "", "Manajemen Notifikasi", "EARoot/EA2/EA3/EA6/EA204.html", "189.png", "101", "0", "", "Analysis diagram0","{394A8023-F382-4bb4-B7B7-AC9D249A5112}");
+tocTab[tocTab.length] = new Array("0.2.3.6:1", "", "Manajemen Notifikasi", "EARoot/EA2/EA3/EA6/EA288.html", "189.png", "101", "0", "", "Analysis diagram0","{394A8023-F382-4bb4-B7B7-AC9D249A5112}");
+tocTab[tocTab.length] = new Array("0.2.3.6:2", "", "Tim IT", "EARoot/EA2/EA3/EA6/EA291.html", "116.png", "E618", "0", "", "ActivityPartition0","{27630869-44A1-40d5-90C5-9FA477E533BE}");
+tocTab[tocTab.length] = new Array("0.2.3.6:3", "", "User / Manajemen", "EARoot/EA2/EA3/EA6/EA292.html", "116.png", "E617", "0", "", "ActivityPartition0","{1294D153-B2F9-4f03-8F6E-98B035450E4B}");
+tocTab[tocTab.length] = new Array("0.2.3.6:4", "", "Menerima Notifikasi", "EARoot/EA2/EA3/EA6/EA293.html", "4C9380A5-0_Activity.png", "E625", "E617", "", "Activity0","{0B674463-2A97-4f5a-A80A-64AC225B5D3F}");
+tocTab[tocTab.length] = new Array("0.2.3.6:5", "", "Selesai", "EARoot/EA2/EA3/EA6/EA294.html", "4C9380A5-0_EndEvent.png", "E626", "E617", "", "Event0","{86ECBCF5-1AD2-4796-8DAD-F0791DD644E5}");
+tocTab[tocTab.length] = new Array("0.2.3.6:6", "", "Identifikasi Kebutuhan Notifikasi", "EARoot/EA2/EA3/EA6/EA295.html", "4C9380A5-0_Activity.png", "E620", "E618", "", "Activity0","{DABA4BCB-1018-4847-97CE-D02A18E856BD}");
+tocTab[tocTab.length] = new Array("0.2.3.6:7", "", "Pembuatan Pesan Notifikasi", "EARoot/EA2/EA3/EA6/EA296.html", "4C9380A5-0_Activity.png", "E622", "E618", "", "Activity0","{F47E276B-94AE-4c31-AF7F-0F4AE93F179A}");
+tocTab[tocTab.length] = new Array("0.2.3.6:8", "", "Penentuan Penerima Notifikasi", "EARoot/EA2/EA3/EA6/EA297.html", "4C9380A5-0_Activity.png", "E621", "E618", "", "Activity0","{929CE81B-B6FA-43fa-B026-F5E6DF1C80A2}");
+tocTab[tocTab.length] = new Array("0.2.3.6:9", "", "Pengiriman Notifikasi", "EARoot/EA2/EA3/EA6/EA298.html", "4C9380A5-0_Activity.png", "E624", "E618", "", "Activity0","{9BCDCA14-27BF-4751-A271-2D4283A3312E}");
+tocTab[tocTab.length] = new Array("0.2.3.6:10", "", "Penjadwalan Waktu Pengiriman", "EARoot/EA2/EA3/EA6/EA299.html", "4C9380A5-0_Activity.png", "E623", "E618", "", "Activity0","{E2BC1E8C-11C0-43a8-8A2D-BA87B553005B}");
+tocTab[tocTab.length] = new Array("0.2.3.6:11", "", "StartEvent1", "EARoot/EA2/EA3/EA6/EA300.html", "4C9380A5-0_StartEvent.png", "E619", "E618", "", "Event0","{FFA0F50E-DB74-4692-9B5B-D978402BECFA}");

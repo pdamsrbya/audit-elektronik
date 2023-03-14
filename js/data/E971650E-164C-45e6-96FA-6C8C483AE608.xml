@@ -1,1 +1,5 @@
-tocTab[tocTab.length] = new Array("0.2.7:1", "", "Pemodelan Data Model", "EARoot/EA2/EA7/EA222.html", "188.png", "16", "0", "", "Custom diagram0","{B8EF2B5B-FA10-41a3-A350-25E82DF7111D}");
+tocTab[tocTab.length] = new Array("0.2.7:1", "", "2.3. Pemodelan Data Model", "EARoot/EA2/EA7/EA447.html", "175.png", "130", "0", "", "Logical diagram0","{8CF3324F-693C-49ae-BC9F-CD4B42FE52EC}");
+tocTab[tocTab.length] = new Array("0.2.7:2", "", "Pemodelan Data Model", "EARoot/EA2/EA7/EA449.html", "188.png", "16", "0", "", "Custom diagram0","{B8EF2B5B-FA10-41a3-A350-25E82DF7111D}");
+tocTab[tocTab.length] = new Array("0.2.7:3", "", "Master_PKPT", "EARoot/EA2/EA7/EA452.html", "8C9E6706-8_table.png", "E716", "0", "", "Class0","{272384FA-0BD6-422a-A721-73A221800762}");
+tocTab[tocTab.length] = new Array("0.2.7:4", "", "Sequence1", "EARoot/EA2/EA7/EA453.html", "8C9E6706-8_dbsequence.png", "E715", "0", "", "Class0","{ACFCC0B1-78B1-425c-B531-F6D06922339F}");
+tocTab[tocTab.length] = new Array("0.2.7:5", "", "Tb_Penugasan", "EARoot/EA2/EA7/EA454.html", "8C9E6706-8_table.png", "E717", "0", "", "Class0","{BC90B46E-BD77-4326-8E1A-BB0A0A5E5B1D}");

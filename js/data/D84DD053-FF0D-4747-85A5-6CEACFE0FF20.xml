@@ -1,1 +1,3 @@
-tocTab[tocTab.length] = new Array("0.2.3.7:1", "", "Manajemen Authentikasi", "EARoot/EA2/EA3/EA7/EA207.html", "189.png", "98", "0", "", "Analysis diagram0","{CBACB55D-B2BA-42fc-AF30-92CB90DE9D62}");
+tocTab[tocTab.length] = new Array("0.2.3.7:1", "", "Manajemen Authentikasi", "EARoot/EA2/EA3/EA7/EA301.html", "189.png", "98", "0", "", "Analysis diagram0","{CBACB55D-B2BA-42fc-AF30-92CB90DE9D62}");
+tocTab[tocTab.length] = new Array("0.2.3.7:2", "", "Admin", "EARoot/EA2/EA3/EA7/EA304.html", "116.png", "E628", "0", "", "ActivityPartition0","{E7FF3564-7F3A-479b-9FE0-EF9F19D84668}");
+tocTab[tocTab.length] = new Array("0.2.3.7:3", "", "User", "EARoot/EA2/EA3/EA7/EA305.html", "116.png", "E627", "0", "", "ActivityPartition0","{C5902FA1-1FC9-45f6-8309-BDBE0F7FA904}");

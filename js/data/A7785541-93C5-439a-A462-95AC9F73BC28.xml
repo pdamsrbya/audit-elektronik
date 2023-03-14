@@ -1,1 +1,7 @@
-tocTab[tocTab.length] = new Array("0.2.6:1", "", "Pemodelan Desain User Interface", "EARoot/EA2/EA6/EA219.html", "188.png", "18", "0", "", "Custom diagram0","{85FDF3C8-6291-4448-B9D6-39BBA96874D0}");
+tocTab[tocTab.length] = new Array("0.2.6:1", "", "Pemodelan Desain User Interface", "EARoot/EA2/EA6/EA438.html", "188.png", "18", "0", "", "Custom diagram0","{85FDF3C8-6291-4448-B9D6-39BBA96874D0}");
+tocTab[tocTab.length] = new Array("0.2.6:2", "", "Webpage1", "EARoot/EA2/EA6/EA441.html", "11.png", "E791", "0", "", "Screen0","{615DCEBD-EF4D-472f-B388-8DA27877841D}");
+tocTab[tocTab.length] = new Array("0.2.6:3", "", "Button", "EARoot/EA2/EA6/EA442.html", "16.png", "E792", "E791", "", "GUIElement0","{A902A0C5-0EFD-4ac0-A996-41C86E190A6B}");
+tocTab[tocTab.length] = new Array("0.2.6:4", "", "List", "EARoot/EA2/EA6/EA443.html", "16.png", "E796", "E791", "", "GUIElement0","{523FBA2A-0838-4466-B2A9-A0339758527D}");
+tocTab[tocTab.length] = new Array("0.2.6:5", "", "UI Control", "EARoot/EA2/EA6/EA444.html", "16.png", "E793", "E791", "", "GUIElement0","{81A05A49-8642-4100-9711-85A8792EBD54}");
+tocTab[tocTab.length] = new Array("0.2.6:6", "", "UI Control", "EARoot/EA2/EA6/EA445.html", "16.png", "E794", "E791", "", "GUIElement0","{840BEFAC-DFDC-410f-9758-5EA8ACB09B10}");
+tocTab[tocTab.length] = new Array("0.2.6:7", "", "UI Control", "EARoot/EA2/EA6/EA446.html", "16.png", "E795", "E791", "", "GUIElement0","{A3D6F7C1-DA3F-4ab5-9D3E-856980041A96}");

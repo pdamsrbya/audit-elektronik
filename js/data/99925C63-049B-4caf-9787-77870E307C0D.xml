@@ -1,3 +1,4 @@
 tocTab[tocTab.length] = new Array("0.1", "1", "1. Proposal", "EARoot/EA1/EA1.html", "34.png", "", "", "{9F1BD55E-092A-4e73-B741-C791F9A05828}", "Package");
 tocTab[tocTab.length] = new Array("0.2", "1", "2. Analisis dan Desain", "EARoot/EA2/EA14.html", "34.png", "", "", "{72EF5D04-B103-4173-ADAC-00EB5EFFA3BD}", "Package");
-tocTab[tocTab.length] = new Array("0.3", "1", "3. Implementasi", "EARoot/EA3/EA228.html", "34.png", "", "", "{55954883-4981-481b-B184-1BE591F1CD2B}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "3. Implementasi", "EARoot/EA3/EA458.html", "34.png", "", "", "{55954883-4981-481b-B184-1BE591F1CD2B}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "Laporan", "EARoot/EA4/EA481.html", "31.png", "", "", "{4409C597-D64D-4511-A00D-09E6E524DB7F}", "Package");
